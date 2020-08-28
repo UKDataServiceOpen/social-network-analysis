@@ -1,0 +1,6 @@
+,John,Joan,Jenny,Juliet,Jack
+John,--,Friend,Colleague,Stranger,Stranger
+Joan,Friend,--,Stranger,Wife,Stranger
+Jenny,Colleague,Stranger,--,Friend,Stranger
+Juliet,Stranger,Wife,Friend,--,Stranger
+Jack,Stranger,Stranger,Stranger,Stranger,--

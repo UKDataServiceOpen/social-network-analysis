@@ -1,0 +1,10 @@
+source,target,weight
+Wife,Cousin,2
+Wife,Sister-in-law,1
+Aunt,Wife,3
+Aunt,Gran,2
+Cousin,Wife,4
+Cousin,Gran,3
+Gran,Wife,1
+Gran,Cousin,3
+Sister-in-law,Wife,2

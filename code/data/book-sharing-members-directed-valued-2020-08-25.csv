@@ -1,0 +1,6 @@
+,Wife,Aunt,Cousin,Gran,Sister-in-law
+Wife,,0,2,0,1
+Aunt,3,,0,2,0
+Cousin,4,0,,3,0
+Gran,1,0,3,,0
+Sister-in-law,2,0,0,0,
