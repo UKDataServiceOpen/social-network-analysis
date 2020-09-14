@@ -7,6 +7,7 @@ code/sna-sample-graphs-code-2020-08-26.ipynb
 code/connections-test.py
 code/manchester-trustees.csv
 code/sna-demo-2020-06-10.ipynb
+code/twitter-api-credentials.json
 webinars/*outline*
 *.osp
 *.mp4
@@ -15,3 +16,4 @@ webinars/*notes*
 webinars/twitter-api-project-file-video_assets
 *.pptx
 .ipynb_checkpoints
+
