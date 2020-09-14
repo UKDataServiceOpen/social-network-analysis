@@ -8,5 +8,10 @@ code/connections-test.py
 code/manchester-trustees.csv
 code/sna-demo-2020-06-10.ipynb
 webinars/*outline*
+*.osp
+*.mp4
+webinars/sna-twitter-api-registration-2020-09-14*
+webinars/*notes*
+webinars/twitter-api-project-file-video_assets
 *.pptx
 .ipynb_checkpoints
