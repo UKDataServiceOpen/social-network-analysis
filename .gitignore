@@ -17,3 +17,6 @@ webinars/twitter-api-project-file-video_assets
 *.pptx
 .ipynb_checkpoints
 
+code/unused-code-2020-09-15.txt
+code/data/rnli-timeline-2020-09-15.json
+code/data/rnli-timeline-2020-09-15.csv
