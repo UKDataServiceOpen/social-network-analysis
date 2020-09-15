@@ -2,7 +2,7 @@
 
 ## 1. Fundamental Concepts
 This webinar covers the fundamental concepts and terms underpinning SNA, and demonstrates how network data is structured and differs from more traditional social science data sets (e.g., social surveys). It also outlines a simple analysis of social network data using the Python programming language.
-* [Watch recording]
+* [Watch recording](https://www.youtube.com/watch?v=PJOM0m_WeTA)
 * [Download slides](./sna-fundamentals-2020-09-01.pdf)
 
 ## 2. Getting and Marshalling Data
