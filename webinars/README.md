@@ -6,7 +6,7 @@ This webinar covers the fundamental concepts and terms underpinning SNA, and dem
 * [Download slides](./sna-fundamentals-2020-09-01.pdf)
 
 ## 2. Getting and Marshalling Data
-This webinar dives into the steps needed to collect and clean social network data, drawing on two examples: Twitter data, and administrative data that can be repurposed for network analysis.
+This webinar dives into the steps needed to collect and clean social network data, drawing on two examples: Twitter data, and administrative data that can be repurposed for social network analysis.
 * [Watch recording]
 * [Download slides](./sna-getting-data-2020-09-15.pdf)
 
