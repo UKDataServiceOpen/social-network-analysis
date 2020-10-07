@@ -12,5 +12,5 @@ This webinar dives into the steps needed to collect and clean social network dat
 
 ## 3. Techniques and Methods of Analysis
 This webinar defines and demonstrates basic and intermediate methods of analysis, including measuring network size, density, cohesion, paths, structural holes and more - it also references more advanced approaches (e.g., exponential random graph modelling, relational event modelling).
-* [Watch recording]
+* [Watch recording](https://www.youtube.com/watch?v=9vg3F4J-Tww)
 * [Download slides](./sna-analysis-2020-09-29.pdf)
